@@ -1,0 +1,38 @@
+{
+  "id": "11111111-2222-3333-4444-555555555555",
+  "title": "Inception",
+  "synopsis": "Dom Cobb est un voleur expérimenté, le meilleur dans l'art dangereux de l'extraction : subtiliser les secrets les plus précieux enfouis au plus profond du subconscient.",
+  "description": "Dom Cobb est un voleur expérimenté, le meilleur dans l'art dangereux de l'extraction : subtiliser les secrets les plus précieux enfouis au plus profond du subconscient. Ce talent très prisé a fait de lui un fugitif international et lui a coûté tout ce qu'il avait de cher. Aujourd'hui, on lui propose une chance de se racheter. Une ultime mission pourrait lui rendre sa vie d'avant.",
+  "genres": [
+    "Science-Fiction",
+    "Action"
+  ],
+  "releaseYear": 2010,
+  "duration": 8880,
+  "rating": 8.7,
+  "posterUrl": "https://storage.googleapis.com/streamv10/assets/inception/poster.jpg",
+  "backgroundUrl": "https://storage.googleapis.com/streamv10/assets/inception/background.jpg",
+  "streamUrl": "https://storage.googleapis.com/streamv10/media/inception/playlist.m3u8",
+  "subtitles": [
+    {
+      "language": "fr",
+      "label": "Français",
+      "url": "https://storage.googleapis.com/streamv10/media/inception/subtitles/fr.vtt"
+    },
+    {
+      "language": "en",
+      "label": "English",
+      "url": "https://storage.googleapis.com/streamv10/media/inception/subtitles/en.vtt"
+    }
+  ],
+  "createdAt": "2024-01-15T10:00:00.000Z",
+  "updatedAt": "2024-06-01T12:30:00.000Z",
+  "published": true,
+  "featured": false,
+  "categories": [
+    "Top 10",
+    "Nouveautés"
+  ],
+  "createdBy": "admin",
+  "updatedBy": "admin"
+}
