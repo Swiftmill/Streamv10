@@ -1,0 +1,18 @@
+[
+  {
+    "id": "8af513c5-4f5e-4c65-8ff1-3eaf2f8a1a10",
+    "name": "Nouveautés",
+    "slug": "nouveautes",
+    "position": 0,
+    "createdAt": "2024-01-10T09:00:00.000Z",
+    "updatedAt": "2024-06-01T12:00:00.000Z"
+  },
+  {
+    "id": "c432d906-0a69-4b16-a5c9-46f8f3d556dd",
+    "name": "Science-Fiction",
+    "slug": "science-fiction",
+    "position": 1,
+    "createdAt": "2024-01-10T09:05:00.000Z",
+    "updatedAt": "2024-06-01T12:00:00.000Z"
+  }
+]

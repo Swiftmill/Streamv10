@@ -1,0 +1,73 @@
+{
+  "slug": "stranger-things",
+  "title": "Stranger Things",
+  "synopsis": "À Hawkins, les mystères surnaturels bouleversent le quotidien d'un groupe d'amis soudés qui cherche à sauver l'un des leurs.",
+  "description": "Lorsque Will Byers disparaît, ses amis se lancent dans une enquête terrifiante impliquant des expériences gouvernementales secrètes, des forces surnaturelles effrayantes et une fillette étrange.",
+  "genres": [
+    "Science-Fiction",
+    "Horreur"
+  ],
+  "releaseYear": 2016,
+  "posterUrl": "https://storage.googleapis.com/streamv10/assets/stranger-things/poster.jpg",
+  "backgroundUrl": "https://storage.googleapis.com/streamv10/assets/stranger-things/background.jpg",
+  "createdAt": "2024-01-20T09:00:00.000Z",
+  "updatedAt": "2024-06-02T15:45:00.000Z",
+  "published": true,
+  "featured": true,
+  "categories": [
+    "Populaires",
+    "Science-Fiction"
+  ],
+  "createdBy": "admin",
+  "updatedBy": "admin",
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "Chapitre Un : La Disparition de Will Byers",
+      "synopsis": "La petite ville d'Hawkins est secouée par la disparition d'un jeune garçon.",
+      "runtime": 3180,
+      "streamUrl": "https://storage.googleapis.com/streamv10/media/stranger-things/s01e01/index.m3u8",
+      "subtitles": [
+        {
+          "language": "fr",
+          "label": "Français",
+          "url": "https://storage.googleapis.com/streamv10/media/stranger-things/s01e01/fr.vtt"
+        },
+        {
+          "language": "en",
+          "label": "English",
+          "url": "https://storage.googleapis.com/streamv10/media/stranger-things/s01e01/en.vtt"
+        }
+      ],
+      "releasedAt": "2016-07-15T00:00:00.000Z",
+      "createdAt": "2024-01-20T09:00:00.000Z",
+      "updatedAt": "2024-06-02T15:45:00.000Z",
+      "published": true
+    },
+    {
+      "season": 1,
+      "episode": 2,
+      "title": "Chapitre Deux : La Folle de Maple Street",
+      "synopsis": "La mystérieuse fille retrouvée dans les bois révèle des indices sur la disparition de Will.",
+      "runtime": 3120,
+      "streamUrl": "https://storage.googleapis.com/streamv10/media/stranger-things/s01e02/index.m3u8",
+      "subtitles": [
+        {
+          "language": "fr",
+          "label": "Français",
+          "url": "https://storage.googleapis.com/streamv10/media/stranger-things/s01e02/fr.vtt"
+        },
+        {
+          "language": "en",
+          "label": "English",
+          "url": "https://storage.googleapis.com/streamv10/media/stranger-things/s01e02/en.vtt"
+        }
+      ],
+      "releasedAt": "2016-07-15T00:00:00.000Z",
+      "createdAt": "2024-01-20T09:15:00.000Z",
+      "updatedAt": "2024-06-02T15:45:00.000Z",
+      "published": true
+    }
+  ]
+}

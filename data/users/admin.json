@@ -1,0 +1,11 @@
+[
+  {
+    "username": "admin",
+    "displayName": "Administrateur",
+    "role": "admin",
+    "active": true,
+    "createdAt": "2024-01-01T08:00:00.000Z",
+    "updatedAt": "2024-01-01T08:00:00.000Z",
+    "passwordHash": "$2y$12$Eaw/NF1n/r9pm4IhkdD5tu/Xk1X4a1xywfU/nFCeD3FrDWIWXxEQO"
+  }
+]
